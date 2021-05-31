@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khafabi
-- 👀 I’m interested in React Native
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me email: skhafabii@gmail.com
 
 <!---
