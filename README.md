@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @khafabi
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me email: skhafabii@gmail.com
+- 👋 Hi, You can call me A-B-I for simplicity
+- 👀 I’m currently working as Software Engineer, Multi Platform Application to be exact
+- 🌱 I’m mainly using Flutter
+- 📫 Reach my email: skhafabii@gmail.com
+- Have a nice day !!!
 
 <!---
 khafabi/khafabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
