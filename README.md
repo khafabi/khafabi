@@ -1,6 +1,6 @@
-- 👋 Hi, You can call me A-B-I for simplicity
+- 👋 Hi, You can call me A-B-I for the sake of simplicity
 - 👀 I’m currently working as Software Engineer, Multi Platform Application to be exact
-- 🌱 I’m mainly using Flutter
+- 🌱 I’m a Flutter nerd
 - Have a nice day !!!
 
 <!---
